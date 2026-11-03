@@ -42,6 +42,8 @@ public class WingMeshBuilder {
             interval[i] = x;
         }
 
+        // need to implement section point (x , y) generation
+
         return points;
     }
 
